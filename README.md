@@ -16,9 +16,6 @@
   <a href="https://www.instagram.com/thomas.a_dev/">
     <img src="https://img.shields.io/badge/thomas.a_dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://github.com/Strongside-87">
-    <img src="https://img.shields.io/badge/-Strongside_87-3a3a3a?style=for-the-badge&logo=GitHub&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/thomas-arildtoft-341381223">
     <img src="https://img.shields.io/badge/-Thomas_Arildtoft-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
@@ -31,7 +28,7 @@
 
 ### 🛠 About Me
 
-As a Junior Engineer at EPOS, I've embarked on a fascinating journey into the world of DevOps. My experiences span the vast spectrum of software development, from crafting intuitive user interfaces to delving deep into the robust back-end infrastructure. The thrill of architecting a system, watching it operate seamlessly, and then iterating on it to achieve perfection is what drives me daily.
+As a Junior DevOps Engineer at EPOS, I've embarked on a fascinating journey into the world of DevOps. My experiences span the vast spectrum of software development, from crafting intuitive user interfaces to delving deep into the robust back-end infrastructure. The thrill of architecting a system, watching it operate seamlessly, and then iterating on it to achieve perfection is what drives me daily.
 
 Beyond the professional realm, I've set up a homelab where I experiment with system administration and host various services. This hands-on approach ensures I remain at the forefront of technological advancements, always ready to adapt and innovate.
 
