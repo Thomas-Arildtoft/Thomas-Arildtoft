@@ -50,10 +50,48 @@ I believe in the power of community and the importance of giving back. Outside o
 
 <!-- Tech badges here -->
 
-- **Frontend**: ![Svelte](https://img.shields.io/static/v1?label=&message=Svelte&color=FF3E00&logo=svelte&logoColor=FFFFFF) ![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-F7DF1E?style=flat&logo=CSS3&logoColor=white)
-- **Core**: ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=FFFFFF) ![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=FFFFFF)
-- **Cloud**: ![Azure](https://img.shields.io/static/v1?label=&message=Azure&color=0078D4&logo=microsoftazure&logoColor=FFFFFF) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-343434?style=flat&logo=github-actions&logoColor=white)
-- **DevOps**: ![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF) ![Kubernetes](https://img.shields.io/badge/Kubernetes-5C2D91.svg?style=flat&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=flat&logo=jenkins&logoColor=white)
-- **Testing**: ![Cypress](https://img.shields.io/static/v1?label=&message=Cypress&color=17202C&logo=cypress&logoColor=FFFFFF) ![Jest](https://img.shields.io/static/v1?label=&message=Jest&color=C21325&logo=jest&logoColor=FFFFFF)
-- **Misc**: ![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=FFFFFF) ![macOS](https://img.shields.io/badge/mac%20os-2357A143?style=flat&logo=apple&logoColor=white)
-- **Editors**: ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- **Frontend**: 
+  ![React Badge](https://custom-icon-badges.demolab.com/badge/React-FFFFFF.svg?style=for-the-badge&logo=react)
+  ![HTML5 Badge](https://custom-icon-badges.demolab.com/badge/HTML-FFFFFF.svg?style=for-the-badge&logo=html)
+  ![CSS3 Badge](https://custom-icon-badges.demolab.com/badge/CSS-000000.svg?style=for-the-badge&logo=CSS3)
+  ![Tailwind CSS Badge](https://custom-icon-badges.demolab.com/badge/TailwindCSS-FFFFFF.svg?style=for-the-badge&logo=Tailwindcss)
+
+- **Core**: 
+  ![JavaScript Badge](https://custom-icon-badges.demolab.com/badge/Javascript-FFFFFF.svg?style=for-the-badge&logo=javascript)
+  ![Python Badge](https://custom-icon-badges.demolab.com/badge/Python-FFFFFF.svg?style=for-the-badge&logo=python)
+  ![Java](https://custom-icon-badges.demolab.com/badge/Java-FFFFFF.svg?style=for-the-badge&logo=java)
+
+- **Backend**:
+  ![MySQL Badge](https://custom-icon-badges.demolab.com/badge/Mysql-FFFFFF.svg?style=for-the-badge&logo=mysql)
+  ![PostgreSQL Badge](https://custom-icon-badges.demolab.com/badge/PostgreSQL-FFFFFF.svg?style=for-the-badge&logo=PostgreSQL)
+
+- **DevOps**: 
+  ![Docker Badge](https://custom-icon-badges.demolab.com/badge/Docker-FFFFFF.svg?style=for-the-badge&logo=docker)
+  ![Kubernetes](https://custom-icon-badges.demolab.com/badge/Kubernetes-FFFFFF.svg?style=for-the-badge&logo=Kubernetes)
+  ![Jenkins](https://custom-icon-badges.demolab.com/badge/Jenkins-FFFFFF.svg?style=for-the-badge&logo=Jenkins)
+  ![GitHub Actions Badge](https://custom-icon-badges.demolab.com/badge/Github_Actions-FFFFFF.svg?style=for-the-badge&logo=Github-actions)
+  ![TeamCity](https://custom-icon-badges.demolab.com/badge/TeamCity-000000.svg?style=for-the-badge&logo=Teamcity)
+
+- **Testing**: 
+  ![Cypress Badge](https://custom-icon-badges.demolab.com/badge/Cypress-FFFFFF.svg?style=for-the-badge&logo=cypress)
+  ![Jest](https://custom-icon-badges.demolab.com/badge/Jest-000000.svg?style=for-the-badge&logo=jest)
+  ![Aqua](https://custom-icon-badges.demolab.com/badge/Aqua-000000.svg?style=for-the-badge&logo=aqua)
+
+- **Misc**: 
+  ![Linux Badge](https://custom-icon-badges.demolab.com/badge/Linux-FFFFFF.svg?style=for-the-badge&logo=linux)
+  ![macOS Badge](https://custom-icon-badges.demolab.com/badge/MacOS-000000.svg?style=for-the-badge&logo=MacOS)
+  ![Ubuntu Badge](https://custom-icon-badges.demolab.com/badge/Ubuntu-FFFFFF.svg?style=for-the-badge&logo=Ubuntu)
+  ![Debian Badge](https://custom-icon-badges.demolab.com/badge/Debian-000000.svg?style=for-the-badge&logo=Debian)
+
+- **Editors**: 
+  ![PyCharm](https://custom-icon-badges.demolab.com/badge/Pycharm-000000.svg?style=for-the-badge&logo=Pycharm)
+  ![Fleet](https://custom-icon-badges.demolab.com/badge/Fleet-FFFFFF.svg?style=for-the-badge&logo=fleet)
+  ![Webstorm](https://custom-icon-badges.demolab.com/badge/Webstorm-000000.svg?style=for-the-badge&logo=webstorm)
+  ![IntelliJ IDEA](https://custom-icon-badges.demolab.com/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea)
+
+- **Design Tools & Other JetBrains Products**:
+  ![Figma](https://custom-icon-badges.demolab.com/badge/Figma-FFFFFF.svg?style=for-the-badge&logo=figma)
+  ![Space](https://custom-icon-badges.demolab.com/badge/Space-FFFFFF.svg?style=for-the-badge&logo=jetbrains-space)
+  ![Git](https://custom-icon-badges.demolab.com/badge/Git-FFFFFF.svg?style=for-the-badge&logo=Git)
+  ![Jira](https://custom-icon-badges.demolab.com/badge/Jira-000000.svg?style=for-the-badge&logo=jira-software)
+  ![Markdown](https://custom-icon-badges.demolab.com/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown)
