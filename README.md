@@ -1,12 +1,5 @@
 # Hi, I'm THOMAS! 👋 Nice of you for stopping by my profile !
 
-I am a passionate Software Engineer student at Danish Technical University ( DTU ), driven by a curiosity for technology and a love for writing code. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community. Currently working on my own microservice applications.
-
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-## 🚀 About Me
-
-- I'm currently pursuing my Bachelors's in Software Engineering at The Danish Technical University.
 - Working on my sideehustle's to further expand my technological knowledge of different techstacks.
 - Experience with DevOps, Cloud and platform enginering.
 
@@ -22,13 +15,10 @@ I am a passionate Software Engineer student at Danish Technical University ( DTU
 
 ## 🌱 Currently Exploring
 
-  - Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
-  - platform eenginering using an array of different tools.
+- Building scalable CI/CD pipelines and automating cloud infrastructure with Docker and Kubernetes.
+- Deepening my understanding of containerization and monitoring with Prometheus.
+- Exploring advanced DevOps practices and learning more about tools like Terraform, Ansible, and GitOps.
+- Developing microservices and integrating them using REST and GraphQL.
 
 ## 📫 How to reach me: 
 
